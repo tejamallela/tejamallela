@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejasree Mallela</h1>
 <h3 align="center">A passionate frontend developer, I am looking for a role where I can continue to expand my skills, take on new responsibilities, and make a meaningful contribution.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSo75HEDVSUhFh5c88ki0OspRR7wazy2WImVGKifhxM7SuR0LRtWELeP75g&s">
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning Reactjs
 
 - 💬 Ask me about **Javascript, Angular**
 
